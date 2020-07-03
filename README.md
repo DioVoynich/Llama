@@ -14,8 +14,9 @@ the installation process, be sure to check it!
 
 0. Download this app from the Github website to your PC (I am sure you already did).
 1. Plug your phone to your PC by the USB cable. 
-2. Drag the Apk file from your PC to your Phone. 
-3. You can now use the app. Enjoy!
+2. Unzip the zip file and extract Llama.apk file. 
+3. Drag the Apk file from your PC to your Phone. 
+4. You can now use the app. Enjoy!
 
 
 ----- Features -----
@@ -51,15 +52,5 @@ is in Japanese.
 
 
 ----- Contact -----
-
-If you have any questions and requests, please leave messages to bamomoha123@gmail.com.
+If you have any questions and requests, please leave messages to bamomoha123@gmail.com. 
 Thank you!
-
-
- 
-
-
-
-
-
-
