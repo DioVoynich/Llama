@@ -1,7 +1,7 @@
-- Llama Ver1.0
+- Llama Ver1.1
 - Android App Project
 - By HageNezz	
-- 7/2/2020	
+- 7/11/2020	
 
 This is my first Android app project. I haven't have chance of creating an Android app
 and SQL database in my school classes. Why not study by myself? With curiosity and insterest, 
@@ -19,11 +19,27 @@ the installation process, be sure to check it!
 4. You can now use the app. Enjoy!
 
 
------ Features -----
+----- Version & Changes -----
 
-It has the following features (with the updates):
+----- Ver1.1 -----
+
+- Screen scrolling for Potrait Mode has been added. 
+- Minor Japanese tranlation error has been fixed.
+- Sreen proportion, positonsm, and line-ups are fixed for several feature objects. 
+- System to restore the state variables for orientation from Portrait to Landscape, 
+vice versa, has been added (music progress, audio volume).
+- Fixing the issue of music is still playing after logout. 
+
 
 ----- Ver1.0 -----
+
+The first version of releasing. All the features are described in the feature section below. 
+Please look at it for more information. 
+
+
+----- Features -----
+
+It has the following features:
 
 Login & Lotout System - It requires the users to insert their username and password in order to login. If the users 
 decide to exit this app, simply, click the logout sign on the bottom of the main page. 
@@ -55,3 +71,4 @@ is in Japanese.
 
 If you have any questions and requests, please leave messages to bamomoha123@gmail.com. 
 Thank you!
+
