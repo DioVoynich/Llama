@@ -7,7 +7,7 @@ This is my first Android app project. I haven't have chance of creating an Andro
 and SQL database in my school classes. Why not study by myself? With curiosity and insterest, 
 I build this app. This app is only supporting the devices with screen size of 6.0, 1080 x 2160, 400dpi.
 A good example would be the size of "Pixel 3a XL." The features are written under 
-the installation process, be sure to check it!
+the installation process, be sure to check it! (This is not souce code).
 
 
 ----- Installation Process -----
