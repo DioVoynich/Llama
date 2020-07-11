@@ -69,6 +69,6 @@ is in Japanese.
 
 ----- Contact -----
 
-If you have any questions and requests, please leave messages to bamomoha123@gmail.com. 
+If you have any questions and requests, please leave messages to davidneoog@gmail.com. 
 Thank you!
 
