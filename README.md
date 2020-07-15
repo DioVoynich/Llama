@@ -1,7 +1,7 @@
 - Llama Ver1.2
 - Android App Project
 - By HageNezz	
-- 7/11/2020	
+- 7/15/2020	
 
 This is my first Android app project. I haven't have chance of creating an Android app
 and SQL database in my school classes. Why not study by myself? With curiosity and insterest, 
@@ -23,6 +23,7 @@ the installation process, be sure to check it! Finally, the source code has been
 ----- Ver1.2 -----
 
 - Source code has been added.
+
 
 ----- Ver1.1 -----
 
@@ -74,4 +75,3 @@ is in Japanese.
 
 If you have any questions and requests, please leave messages to davidneoog@gmail.com. 
 Thank you!
-
